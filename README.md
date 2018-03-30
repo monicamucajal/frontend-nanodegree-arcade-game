@@ -21,7 +21,7 @@ Users move the Player by using the up/right/left/down arrow keys on their keyboa
 
 ## GitHub Repository 
 * GitHub Project Repository: [https://github.com/monicamucajal/frontend-nanodegree-arcade-game](https://github.com/monicamucajal/frontend-nanodegree-frogger-arcade-game/ "GitHub project repository")
-* GitHub Pages Demo: [http://monicamucajal.github.io/frontend-nanodegree-arcade-game/](http://monicamucajal.github.io/frontend-nanodegree-arcade-game/ "GitHub Pages demo")
+
 
 ## Installation
 To run the application:
@@ -31,4 +31,3 @@ To run the application:
 3. Click on "Download Zip" and save to your machine
 4. Unzip the file in a local directory
 5. Open a browser, do File > Open, then navigate to the index.html file inside the unzipped directory.  The game will load then.
-
