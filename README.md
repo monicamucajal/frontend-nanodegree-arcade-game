@@ -31,3 +31,15 @@ To run the application:
 3. Click on "Download Zip" and save to your machine
 4. Unzip the file in a local directory
 5. Open a browser, do File > Open, then navigate to the index.html file inside the unzipped directory.  The game will load then.
+
+## References
+* Office Hours: [https://www.youtube.com/watch?v=3uS9aDbstUs](https://www.youtube.com/watch?v=3uS9aDbstUs)
+* Forum post: [https://discussions.udacity.com/t/just-a-thank-you-to-everyone-here-on-the-board/29873](https://discussions.udacity.com/t/just-a-thank-you-to-everyone-here-on-the-board/29873)
+* Forum post: [https://discussions.udacity.com/t/for-those-who-do-not-know-where-to-start-project-3/15618](https://discussions.udacity.com/t/for-those-who-do-not-know-where-to-start-project-3/15618)
+* Forum post: [https://discussions.udacity.com/t/project-3-resource-list/24174](https://discussions.udacity.com/t/project-3-resource-list/24174)
+* GitHub: [https://github.com/alexsales/frontend-nanodegree-frogger-arcade-game](https://github.com/alexsales/frontend-nanodegree-frogger-arcade-game)
+* GitHub: [https://github.com/Rawaneeta1/Nanodegree-arcade-game/blob/master/js/app.js](https://github.com/Rawaneeta1/Nanodegree-arcade-game/blob/master/js/app.js)
+* JsHint: [http://jshint.com/](http://jshint.com/)
+* JS Beautifer: [http://jsbeautifier.org/](http://jsbeautifier.org/)
+* Mozilla Javascript Reference: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* Markdown editor: https://jbt.github.io/markdown-editor/[](https://jbt.github.io/markdown-editor/)
